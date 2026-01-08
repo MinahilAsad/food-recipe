@@ -1,16 +1,30 @@
-# mealplanner
+Meal Planner Mobile Application
 
-A new Flutter project.
+This mobile application project was completed as part of my university Mobile Application Development course.
 
-## Getting Started
+Project Overview:
+The Meal Planner app allows users to browse different meals, view ingredients and cooking steps, apply meal filters, mark meals as favorites, and watch cooking videos through external links.
 
-This project is a starting point for a Flutter application.
+Key Features:
+- Meal listing with images
+- Meal detail view (ingredients & preparation steps)
+- Favorite meals functionality
+- Meal filters (diet preferences)
+- Watch video option (external link)
+- Smooth navigation and clean UI
 
-A few resources to get you started if this is your first Flutter project:
+Technology Stack:
+- Flutter
+- Dart
+- Material Design
+- Local dummy data
+- setState for state management
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Data Handling:
+This application uses locally stored dummy data. No database or cloud backend is integrated. The project is designed as an offline prototype for academic purposes.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Note:
+This project is based on an open-source GitHub repository. I have personally set up, run, tested, customized the UI/text, and prepared the project for runtime changes as required for academic evaluation.
+
+Student Name:
+Minahil
